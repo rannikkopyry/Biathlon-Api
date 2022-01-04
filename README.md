@@ -1,1 +1,1 @@
-# Biathlon-Api
+# An API for Biathlon-statistics and news.
